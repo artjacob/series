@@ -1,0 +1,434 @@
+[
+	{
+		"series-title": "Friends",
+		"seasons": [
+			{
+				"season-number": 1,
+				"episode-count": 24,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 2,
+				"episode-count": 24,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 3,
+				"episode-count": 25,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 4,
+				"episode-count": 24,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 5,
+				"episode-count": 24,
+				"watched-episodes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+			},
+			{
+				"season-number": 6,
+				"episode-count": 25,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 7,
+				"episode-count": 24
+			},
+			{
+				"season-number": 8,
+				"episode-count": 24
+			},
+			{
+				"season-number": 9,
+				"episode-count": 24
+			},
+			{
+				"season-number": 10,
+				"episode-count": 18,
+				"watch-status": "completed"
+			}
+		]
+	},
+	{
+		"series-title": "Parks and Recreation",
+		"seasons": [
+			{
+				"season-number": 1,
+				"episode-count": 6,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 2,
+				"episode-count": 24,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 3,
+				"episode-count": 16,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 4,
+				"episode-count": 22,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 5,
+				"episode-count": 22,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 6,
+				"episode-count": 22,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 7,
+				"episode-count": 13,
+				"watch-status": "completed"
+			}
+		]
+	},
+	{
+		"series-title": "Mad Men",
+		"seasons": [
+			{
+				"season-number": 1,
+				"episode-count": 13,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 2,
+				"episode-count": 13,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 3,
+				"episode-count": 13,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 4,
+				"episode-count": 13,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 5,
+				"episode-count": 13,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 6,
+				"episode-count": 13,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 7,
+				"episode-count": 14,
+				"watch-status": "completed"
+			}
+		]
+	},
+	{
+		"series-title": "Breaking Bad",
+		"seasons": [
+			{
+				"season-number": 1,
+				"episode-count": 7,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 2,
+				"episode-count": 13,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 3,
+				"episode-count": 13,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 4,
+				"episode-count": 13,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 5,
+				"episode-count": 16,
+				"watch-status": "completed"
+			}
+		]
+	},
+	{
+		"series-title": "House of Cards",
+		"seasons": [
+			{
+				"season-number": 1,
+				"episode-count": 13,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 2,
+				"episode-count": 13,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 3,
+				"episode-count": 13,
+				"watch-status": "completed"
+			}
+		]
+	},
+	{
+		"series-title": "House",
+		"seasons": [
+			{
+				"season-number": 1,
+				"episode-count": 22,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 2,
+				"episode-count": 24,
+				"watched-episodes": [1, 2]
+			},
+			{
+				"season-number": 3,
+				"episode-count": 24
+			},
+			{
+				"season-number": 4,
+				"episode-count": 16,
+				"watched-episodes": [14, 15, 16]
+			},
+			{
+				"season-number": 5,
+				"episode-count": 24,
+				"watched-episodes": [2, 5, 15, 16, 17]
+			},
+			{
+				"season-number": 6,
+				"episode-count": 22,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 7,
+				"episode-count": 23,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 8,
+				"episode-count": 22,
+				"watch-status": "completed"
+			}
+		]
+	},
+	{
+		"series-title": "24",
+		"seasons": [
+			{
+				"season-number": 1,
+				"episode-count": 24,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 2,
+				"episode-count": 24,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 3,
+				"episode-count": 24,
+				"watched-episodes": [1, 2, 3, 4, 5, 6, 7, 8]
+			},
+			{
+				"season-number": 4,
+				"episode-count": 24,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 5,
+				"episode-count": 24,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 6,
+				"episode-count": 24,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 7,
+				"episode-count": 24,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 8,
+				"episode-count": 24,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 9,
+				"episode-count": 12,
+				"watch-status": "completed"
+			}
+		]
+	},
+	{
+		"series-title": "Sherlock",
+		"seasons": [
+			{
+				"season-number": 1,
+				"episode-count": 3,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 2,
+				"episode-count": 3,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 3,
+				"episode-count": 3,
+				"watch-status": "completed"
+			}
+		]
+	},
+	{
+		"series-title": "Better Call Saul",
+		"seasons": [
+			{
+				"season-number": 1,
+				"episode-count": 10,
+				"watch-status": "completed"
+			}
+		]
+	},
+	{
+		"series-title": "Unbreakable Kimmy Schmidt",
+		"seasons": [
+			{
+				"season-number": 1,
+				"episode-count": 13,
+				"watch-status": "completed"
+			}
+		]
+	},
+	{
+		"series-title": "Narcos",
+		"seasons": [
+			{
+				"season-number": 1,
+				"episode-count": 10,
+				"watch-status": "completed"
+			}
+		]
+	},
+	{
+		"series-title": "Scandal",
+		"seasons": [
+			{
+				"season-number": 1,
+				"episode-count": 7,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 2,
+				"episode-count": 22,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 3,
+				"episode-count": 18,
+				"watch-status": "completed"
+			},
+			{
+				"season-number": 4,
+				"episode-count": 22,
+				"watch-status": "completed"
+			}
+		]
+	},
+	{
+		"series-title": "Louie",
+		"seasons": [
+			{
+				"season-number": 1,
+				"episode-count": 13,
+				"watched-episodes": [1, 2, 3, 4, 5, 6]
+			},
+			{
+				"season-number": 2,
+				"episode-count": 13
+			},
+			{
+				"season-number": 3,
+				"episode-count": 13
+			},
+			{
+				"season-number": 4,
+				"episode-count": 14
+			},
+			{
+				"season-number": 5,
+				"episode-count": 8
+			}
+		]
+	},
+	{
+		"series-title": "Penn & Teller: Bullshit!",
+		"seasons": [
+			{
+				"season-number": 1,
+				"episode-count": 13,
+				"watched-episodes": []
+			},
+			{
+				"season-number": 2,
+				"episode-count": 13,
+				"watched-episodes": [1, 12]
+			},
+			{
+				"season-number": 3,
+				"episode-count": 13,
+				"watched-episodes": [9, 11]
+			},
+			{
+				"season-number": 4,
+				"episode-count": 10,
+				"watched-episodes": [3, 4, 5, 6, 7]
+			},
+			{
+				"season-number": 5,
+				"episode-count": 10,
+				"watched-episodes": [6]
+			},
+			{
+				"season-number": 6,
+				"episode-count": 10,
+				"watched-episodes": [1]
+			},
+			{
+				"season-number": 7,
+				"episode-count": 10,
+				"watched-episodes": [7, 8, 10]
+			},
+			{
+				"season-number": 8,
+				"episode-count": 10,
+				"watched-episodes": [10]
+			}
+		]
+	},
+	{
+		"series-title": "Free to Choose",
+		"seasons": [
+			{
+				"season-number": 1,
+				"episode-count": 10,
+				"watched-episodes": [1, 5, 7]
+			}
+		]
+	}
+]

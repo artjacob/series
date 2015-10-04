@@ -1,2 +1,2 @@
-# series
-Acompanhando séries e episódios assistidos
+# Series
+Personal project to keep track of watched series and episodes
