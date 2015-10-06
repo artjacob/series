@@ -25,7 +25,7 @@
 			{
 				"season-number": 5,
 				"episode-count": 24,
-				"watched-episodes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+				"watch-status": "completed"
 			},
 			{
 				"season-number": 6,
@@ -196,7 +196,8 @@
 			},
 			{
 				"season-number": 3,
-				"episode-count": 24
+				"episode-count": 24,
+				"watched-episodes": [1, 2, 3, 4, 5, 6, 7, 18]
 			},
 			{
 				"season-number": 4,
