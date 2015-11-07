@@ -192,22 +192,22 @@
 			{
 				"season-number": 2,
 				"episode-count": 24,
-				"watched-episodes": [1, 2]
+				"watched-episodes": [1, 2, 10, 13, 17, 18, 19, 20, 21]
 			},
 			{
 				"season-number": 3,
 				"episode-count": 24,
-				"watched-episodes": [1, 2, 3, 4, 5, 6, 7, 18]
+				"watched-episodes": [1, 2, 3, 4, 5, 6, 7, 12, 18, 19]
 			},
 			{
 				"season-number": 4,
 				"episode-count": 16,
-				"watched-episodes": [14, 15, 16]
+				"watched-episodes": [11, 14, 15, 16]
 			},
 			{
 				"season-number": 5,
 				"episode-count": 24,
-				"watched-episodes": [2, 5, 15, 16, 17]
+				"watched-episodes": [2, 4, 5, 15, 16, 17]
 			},
 			{
 				"season-number": 6,
