@@ -49,7 +49,7 @@
 				let $episode = $("<span />").addClass("episode").attr("title", "Season " + season["season-number"] + ", Episode " + episode_number).appendTo($season);
 				stats["episode-count"]++;
 
-				if(season["watch-status"] == "completed" || (season["watched-episodes"] && season["watched-episodes"].indexOf(episode_number) >= 0)) {
+				if(season["watched-episodes"] && (season["watched-episodes"] == "all" || season["watched-episodes"].indexOf(episode_number) >= 0)) {
 					$episode.addClass("watched");
 					stats["watched-episodes-count"]++;
 				}

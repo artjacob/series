@@ -5,32 +5,32 @@
 			{
 				"season-number": 1,
 				"episode-count": 24,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 2,
 				"episode-count": 24,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 3,
 				"episode-count": 25,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 4,
 				"episode-count": 24,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 5,
 				"episode-count": 24,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 6,
 				"episode-count": 25,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 7,
@@ -47,7 +47,7 @@
 			{
 				"season-number": 10,
 				"episode-count": 18,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			}
 		]
 	},
@@ -57,37 +57,37 @@
 			{
 				"season-number": 1,
 				"episode-count": 6,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 2,
 				"episode-count": 24,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 3,
 				"episode-count": 16,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 4,
 				"episode-count": 22,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 5,
 				"episode-count": 22,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 6,
 				"episode-count": 22,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 7,
 				"episode-count": 13,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			}
 		]
 	},
@@ -97,37 +97,37 @@
 			{
 				"season-number": 1,
 				"episode-count": 13,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 2,
 				"episode-count": 13,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 3,
 				"episode-count": 13,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 4,
 				"episode-count": 13,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 5,
 				"episode-count": 13,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 6,
 				"episode-count": 13,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 7,
 				"episode-count": 14,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			}
 		]
 	},
@@ -137,27 +137,27 @@
 			{
 				"season-number": 1,
 				"episode-count": 7,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 2,
 				"episode-count": 13,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 3,
 				"episode-count": 13,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 4,
 				"episode-count": 13,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 5,
 				"episode-count": 16,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			}
 		]
 	},
@@ -167,17 +167,17 @@
 			{
 				"season-number": 1,
 				"episode-count": 13,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 2,
 				"episode-count": 13,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 3,
 				"episode-count": 13,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			}
 		]
 	},
@@ -187,7 +187,7 @@
 			{
 				"season-number": 1,
 				"episode-count": 22,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 2,
@@ -197,7 +197,7 @@
 			{
 				"season-number": 3,
 				"episode-count": 24,
-				"watched-episodes": [1, 2, 3, 4, 5, 6, 7, 12, 18, 19]
+				"watched-episodes": [1, 2, 3, 4, 5, 6, 7, 12, 13, 16, 18, 19, 20, 21, 22, 23, 24]
 			},
 			{
 				"season-number": 4,
@@ -212,17 +212,17 @@
 			{
 				"season-number": 6,
 				"episode-count": 22,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 7,
 				"episode-count": 23,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 8,
 				"episode-count": 22,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			}
 		]
 	},
@@ -232,12 +232,12 @@
 			{
 				"season-number": 1,
 				"episode-count": 24,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 2,
 				"episode-count": 24,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 3,
@@ -247,32 +247,32 @@
 			{
 				"season-number": 4,
 				"episode-count": 24,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 5,
 				"episode-count": 24,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 6,
 				"episode-count": 24,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 7,
 				"episode-count": 24,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 8,
 				"episode-count": 24,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 9,
 				"episode-count": 12,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			}
 		]
 	},
@@ -282,17 +282,17 @@
 			{
 				"season-number": 1,
 				"episode-count": 3,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 2,
 				"episode-count": 3,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 3,
 				"episode-count": 3,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			}
 		]
 	},
@@ -302,7 +302,7 @@
 			{
 				"season-number": 1,
 				"episode-count": 10,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			}
 		]
 	},
@@ -312,7 +312,7 @@
 			{
 				"season-number": 1,
 				"episode-count": 13,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			}
 		]
 	},
@@ -322,7 +322,7 @@
 			{
 				"season-number": 1,
 				"episode-count": 10,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			}
 		]
 	},
@@ -332,22 +332,22 @@
 			{
 				"season-number": 1,
 				"episode-count": 7,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 2,
 				"episode-count": 22,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 3,
 				"episode-count": 18,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 4,
 				"episode-count": 22,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			}
 		]
 	},
@@ -438,22 +438,22 @@
 			{
 				"season-number": 16,
 				"episode-count": 7,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 17,
 				"episode-count": 7,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 18,
 				"episode-count": 7,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			},
 			{
 				"season-number": 19,
 				"episode-count": 6,
-				"watch-status": "completed"
+				"watched-episodes": "all"
 			}
 		]
 	}
