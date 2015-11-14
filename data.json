@@ -297,6 +297,24 @@
 		]
 	},
 	{
+		"series-title": "Borgen",
+		"seasons": [
+			{
+				"season-number": 1,
+				"episode-count": 10,
+				"watched-episodes": "all"
+			},
+			{
+				"season-number": 2,
+				"episode-count": 10
+			},
+			{
+				"season-number": 3,
+				"episode-count": 10
+			}
+		]
+	},
+	{
 		"series-title": "Better Call Saul",
 		"seasons": [
 			{
