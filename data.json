@@ -202,7 +202,7 @@
 			{
 				"season-number": 4,
 				"episode-count": 16,
-				"watched-episodes": [11, 14, 15, 16]
+				"watched-episodes": [11, 12, 13, 14, 15, 16]
 			},
 			{
 				"season-number": 5,
@@ -380,7 +380,7 @@
 			{
 				"season-number": 2,
 				"episode-count": 13,
-				"watched-episodes": [1, 2, 3, 4, 5]
+				"watched-episodes": [1, 2, 3, 4, 5, 6, 7, 8]
 			},
 			{
 				"season-number": 3,
@@ -402,17 +402,17 @@
 			{
 				"season-number": 1,
 				"episode-count": 13,
-				"watched-episodes": [1]
+				"watched-episodes": [1, 13]
 			},
 			{
 				"season-number": 2,
 				"episode-count": 13,
-				"watched-episodes": [1, 12]
+				"watched-episodes": [1, 4, 12]
 			},
 			{
 				"season-number": 3,
 				"episode-count": 13,
-				"watched-episodes": [9, 11]
+				"watched-episodes": [6, 9, 11]
 			},
 			{
 				"season-number": 4,
