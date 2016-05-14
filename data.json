@@ -178,6 +178,11 @@
 				"season-number": 3,
 				"episode-count": 13,
 				"watched-episodes": "all"
+			},
+			{
+				"season-number": 4,
+				"episode-count": 13,
+				"watched-episodes": "all"
 			}
 		]
 	},
@@ -293,6 +298,11 @@
 				"season-number": 3,
 				"episode-count": 3,
 				"watched-episodes": "all"
+			},
+			{
+				"season-number": "E",
+				"episode-count": 1,
+				"watched-episodes": "all"
 			}
 		]
 	},
@@ -319,6 +329,11 @@
 		"seasons": [
 			{
 				"season-number": 1,
+				"episode-count": 10,
+				"watched-episodes": "all"
+			},
+			{
+				"season-number": 2,
 				"episode-count": 10,
 				"watched-episodes": "all"
 			}
@@ -455,13 +470,18 @@
 		"series-title": "Top Gear",
 		"seasons": [
 			{
+				"season-number": 15,
+				"episode-count": 6,
+				"watched-episodes": "all"
+			},
+			{
 				"season-number": 16,
-				"episode-count": 7,
+				"episode-count": 8,
 				"watched-episodes": "all"
 			},
 			{
 				"season-number": 17,
-				"episode-count": 7,
+				"episode-count": 6,
 				"watched-episodes": "all"
 			},
 			{
@@ -471,7 +491,22 @@
 			},
 			{
 				"season-number": 19,
+				"episode-count": 7,
+				"watched-episodes": "all"
+			},
+			{
+				"season-number": 20,
 				"episode-count": 6,
+				"watched-episodes": "all"
+			},
+			{
+				"season-number": 21,
+				"episode-count": 7,
+				"watched-episodes": "all"
+			},
+			{
+				"season-number": 22,
+				"episode-count": 10,
 				"watched-episodes": "all"
 			}
 		]
