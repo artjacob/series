@@ -1,18 +1,18 @@
 {
-	"series-title": "Borgen",
+	"seriesTitle": "Borgen",
 	"seasons": [
 		{
-			"season-number": 1,
-			"episode-count": 10,
-			"watched-episodes": "all"
+			"seasonNumber": 1,
+			"episodeCount": 10,
+			"watchedEpisodes": "all"
 		},
 		{
-			"season-number": 2,
-			"episode-count": 10
+			"seasonNumber": 2,
+			"episodeCount": 10
 		},
 		{
-			"season-number": 3,
-			"episode-count": 10
+			"seasonNumber": 3,
+			"episodeCount": 10
 		}
 	]
 }

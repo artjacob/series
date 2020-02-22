@@ -1,45 +1,45 @@
 {
-	"series-title": "Top Gear",
+	"seriesTitle": "Top Gear",
 	"seasons": [
 		{
-			"season-number": 15,
-			"episode-count": 6,
-			"watched-episodes": "all"
+			"seasonNumber": 15,
+			"episodeCount": 6,
+			"watchedEpisodes": "all"
 		},
 		{
-			"season-number": 16,
-			"episode-count": 8,
-			"watched-episodes": "all"
+			"seasonNumber": 16,
+			"episodeCount": 8,
+			"watchedEpisodes": "all"
 		},
 		{
-			"season-number": 17,
-			"episode-count": 6,
-			"watched-episodes": "all"
+			"seasonNumber": 17,
+			"episodeCount": 6,
+			"watchedEpisodes": "all"
 		},
 		{
-			"season-number": 18,
-			"episode-count": 7,
-			"watched-episodes": "all"
+			"seasonNumber": 18,
+			"episodeCount": 7,
+			"watchedEpisodes": "all"
 		},
 		{
-			"season-number": 19,
-			"episode-count": 7,
-			"watched-episodes": "all"
+			"seasonNumber": 19,
+			"episodeCount": 7,
+			"watchedEpisodes": "all"
 		},
 		{
-			"season-number": 20,
-			"episode-count": 6,
-			"watched-episodes": "all"
+			"seasonNumber": 20,
+			"episodeCount": 6,
+			"watchedEpisodes": "all"
 		},
 		{
-			"season-number": 21,
-			"episode-count": 7,
-			"watched-episodes": "all"
+			"seasonNumber": 21,
+			"episodeCount": 7,
+			"watchedEpisodes": "all"
 		},
 		{
-			"season-number": 22,
-			"episode-count": 10,
-			"watched-episodes": "all"
+			"seasonNumber": 22,
+			"episodeCount": 10,
+			"watchedEpisodes": "all"
 		}
 	]
 }

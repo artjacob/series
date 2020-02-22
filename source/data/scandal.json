@@ -1,25 +1,25 @@
 {
-	"series-title": "Scandal",
+	"seriesTitle": "Scandal",
 	"seasons": [
 		{
-			"season-number": 1,
-			"episode-count": 7,
-			"watched-episodes": "all"
+			"seasonNumber": 1,
+			"episodeCount": 7,
+			"watchedEpisodes": "all"
 		},
 		{
-			"season-number": 2,
-			"episode-count": 22,
-			"watched-episodes": "all"
+			"seasonNumber": 2,
+			"episodeCount": 22,
+			"watchedEpisodes": "all"
 		},
 		{
-			"season-number": 3,
-			"episode-count": 18,
-			"watched-episodes": "all"
+			"seasonNumber": 3,
+			"episodeCount": 18,
+			"watchedEpisodes": "all"
 		},
 		{
-			"season-number": 4,
-			"episode-count": 22,
-			"watched-episodes": "all"
+			"seasonNumber": 4,
+			"episodeCount": 22,
+			"watchedEpisodes": "all"
 		}
 	]
 }

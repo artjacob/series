@@ -1,25 +1,25 @@
 {
-	"series-title": "House of Cards",
+	"seriesTitle": "House of Cards",
 	"seasons": [
 		{
-			"season-number": 1,
-			"episode-count": 13,
-			"watched-episodes": "all"
+			"seasonNumber": 1,
+			"episodeCount": 13,
+			"watchedEpisodes": "all"
 		},
 		{
-			"season-number": 2,
-			"episode-count": 13,
-			"watched-episodes": "all"
+			"seasonNumber": 2,
+			"episodeCount": 13,
+			"watchedEpisodes": "all"
 		},
 		{
-			"season-number": 3,
-			"episode-count": 13,
-			"watched-episodes": "all"
+			"seasonNumber": 3,
+			"episodeCount": 13,
+			"watchedEpisodes": "all"
 		},
 		{
-			"season-number": 4,
-			"episode-count": 13,
-			"watched-episodes": "all"
+			"seasonNumber": 4,
+			"episodeCount": 13,
+			"watchedEpisodes": "all"
 		}
 	]
 }

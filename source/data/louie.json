@@ -1,15 +1,15 @@
 {
-	"series-title": "Louie",
+	"seriesTitle": "Louie",
 	"seasons": [
 		{
-			"season-number": 1,
-			"episode-count": 13,
-			"watched-episodes": "all"
+			"seasonNumber": 1,
+			"episodeCount": 13,
+			"watchedEpisodes": "all"
 		},
 		{
-			"season-number": 2,
-			"episode-count": 13,
-			"watched-episodes": [
+			"seasonNumber": 2,
+			"episodeCount": 13,
+			"watchedEpisodes": [
 				1,
 				2,
 				3,
@@ -21,16 +21,16 @@
 			]
 		},
 		{
-			"season-number": 3,
-			"episode-count": 13
+			"seasonNumber": 3,
+			"episodeCount": 13
 		},
 		{
-			"season-number": 4,
-			"episode-count": 14
+			"seasonNumber": 4,
+			"episodeCount": 14
 		},
 		{
-			"season-number": 5,
-			"episode-count": 8
+			"seasonNumber": 5,
+			"episodeCount": 8
 		}
 	]
 }

@@ -1,10 +1,10 @@
 {
-	"series-title": "Free to Choose",
+	"seriesTitle": "Free to Choose",
 	"seasons": [
 		{
-			"season-number": 1,
-			"episode-count": 10,
-			"watched-episodes": [
+			"seasonNumber": 1,
+			"episodeCount": 10,
+			"watchedEpisodes": [
 				1,
 				5,
 				7

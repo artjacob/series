@@ -1,25 +1,25 @@
 {
-	"series-title": "Sherlock",
+	"seriesTitle": "Sherlock",
 	"seasons": [
 		{
-			"season-number": 1,
-			"episode-count": 3,
-			"watched-episodes": "all"
+			"seasonNumber": 1,
+			"episodeCount": 3,
+			"watchedEpisodes": "all"
 		},
 		{
-			"season-number": 2,
-			"episode-count": 3,
-			"watched-episodes": "all"
+			"seasonNumber": 2,
+			"episodeCount": 3,
+			"watchedEpisodes": "all"
 		},
 		{
-			"season-number": 3,
-			"episode-count": 3,
-			"watched-episodes": "all"
+			"seasonNumber": 3,
+			"episodeCount": 3,
+			"watchedEpisodes": "all"
 		},
 		{
-			"season-number": "E",
-			"episode-count": 1,
-			"watched-episodes": "all"
+			"seasonNumber": "E",
+			"episodeCount": 1,
+			"watchedEpisodes": "all"
 		}
 	]
 }
