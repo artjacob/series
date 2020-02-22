@@ -1,34 +1,39 @@
 {
-	"seriesTitle": "House of Cards",
+	"seriesTitle": "Elementary",
 	"seasons": [
 		{
 			"seasonNumber": 1,
-			"episodeCount": 13,
+			"episodeCount": 24,
 			"watchedEpisodes": "all"
 		},
 		{
 			"seasonNumber": 2,
-			"episodeCount": 13,
+			"episodeCount": 24,
 			"watchedEpisodes": "all"
 		},
 		{
 			"seasonNumber": 3,
-			"episodeCount": 13,
+			"episodeCount": 24,
 			"watchedEpisodes": "all"
 		},
 		{
 			"seasonNumber": 4,
-			"episodeCount": 13,
+			"episodeCount": 24,
 			"watchedEpisodes": "all"
 		},
 		{
 			"seasonNumber": 5,
-			"episodeCount": 13,
+			"episodeCount": 24,
 			"watchedEpisodes": "all"
 		},
 		{
 			"seasonNumber": 6,
-			"episodeCount": 8,
+			"episodeCount": 21,
+			"watchedEpisodes": [ ]
+		},
+		{
+			"seasonNumber": 7,
+			"episodeCount": 13,
 			"watchedEpisodes": [ ]
 		}
 	]

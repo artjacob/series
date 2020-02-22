@@ -1,5 +1,5 @@
 {
-	"seriesTitle": "House of Cards",
+	"seriesTitle": "The Grand Tour",
 	"seasons": [
 		{
 			"seasonNumber": 1,
@@ -8,28 +8,18 @@
 		},
 		{
 			"seasonNumber": 2,
-			"episodeCount": 13,
+			"episodeCount": 11,
 			"watchedEpisodes": "all"
 		},
 		{
 			"seasonNumber": 3,
-			"episodeCount": 13,
+			"episodeCount": 14,
 			"watchedEpisodes": "all"
 		},
 		{
 			"seasonNumber": 4,
-			"episodeCount": 13,
+			"episodeCount": 1,
 			"watchedEpisodes": "all"
-		},
-		{
-			"seasonNumber": 5,
-			"episodeCount": 13,
-			"watchedEpisodes": "all"
-		},
-		{
-			"seasonNumber": 6,
-			"episodeCount": 8,
-			"watchedEpisodes": [ ]
 		}
 	]
 }

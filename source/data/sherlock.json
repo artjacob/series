@@ -17,8 +17,13 @@
 			"watchedEpisodes": "all"
 		},
 		{
-			"seasonNumber": "E",
+			"seasonNumber": "S",
 			"episodeCount": 1,
+			"watchedEpisodes": "all"
+		},
+		{
+			"seasonNumber": "4",
+			"episodeCount": 3,
 			"watchedEpisodes": "all"
 		}
 	]
