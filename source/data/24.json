@@ -1,0 +1,59 @@
+{
+	"series-title": "24",
+	"seasons": [
+		{
+			"season-number": 1,
+			"episode-count": 24,
+			"watched-episodes": "all"
+		},
+		{
+			"season-number": 2,
+			"episode-count": 24,
+			"watched-episodes": "all"
+		},
+		{
+			"season-number": 3,
+			"episode-count": 24,
+			"watched-episodes": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"season-number": 4,
+			"episode-count": 24,
+			"watched-episodes": "all"
+		},
+		{
+			"season-number": 5,
+			"episode-count": 24,
+			"watched-episodes": "all"
+		},
+		{
+			"season-number": 6,
+			"episode-count": 24,
+			"watched-episodes": "all"
+		},
+		{
+			"season-number": 7,
+			"episode-count": 24,
+			"watched-episodes": "all"
+		},
+		{
+			"season-number": 8,
+			"episode-count": 24,
+			"watched-episodes": "all"
+		},
+		{
+			"season-number": 9,
+			"episode-count": 12,
+			"watched-episodes": "all"
+		}
+	]
+}

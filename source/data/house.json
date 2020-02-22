@@ -1,0 +1,93 @@
+{
+	"series-title": "House",
+	"seasons": [
+		{
+			"season-number": 1,
+			"episode-count": 22,
+			"watched-episodes": "all"
+		},
+		{
+			"season-number": 2,
+			"episode-count": 24,
+			"watched-episodes": [
+				1,
+				2,
+				3,
+				4,
+				10,
+				13,
+				14,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24
+			]
+		},
+		{
+			"season-number": 3,
+			"episode-count": 24,
+			"watched-episodes": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				12,
+				13,
+				16,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24
+			]
+		},
+		{
+			"season-number": 4,
+			"episode-count": 16,
+			"watched-episodes": [
+				11,
+				12,
+				13,
+				14,
+				15,
+				16
+			]
+		},
+		{
+			"season-number": 5,
+			"episode-count": 24,
+			"watched-episodes": [
+				2,
+				4,
+				5,
+				15,
+				16,
+				17
+			]
+		},
+		{
+			"season-number": 6,
+			"episode-count": 22,
+			"watched-episodes": "all"
+		},
+		{
+			"season-number": 7,
+			"episode-count": 23,
+			"watched-episodes": "all"
+		},
+		{
+			"season-number": 8,
+			"episode-count": 22,
+			"watched-episodes": "all"
+		}
+	]
+}

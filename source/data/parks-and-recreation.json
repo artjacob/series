@@ -1,0 +1,40 @@
+{
+	"series-title": "Parks and Recreation",
+	"seasons": [
+		{
+			"season-number": 1,
+			"episode-count": 6,
+			"watched-episodes": "all"
+		},
+		{
+			"season-number": 2,
+			"episode-count": 24,
+			"watched-episodes": "all"
+		},
+		{
+			"season-number": 3,
+			"episode-count": 16,
+			"watched-episodes": "all"
+		},
+		{
+			"season-number": 4,
+			"episode-count": 22,
+			"watched-episodes": "all"
+		},
+		{
+			"season-number": 5,
+			"episode-count": 22,
+			"watched-episodes": "all"
+		},
+		{
+			"season-number": 6,
+			"episode-count": 22,
+			"watched-episodes": "all"
+		},
+		{
+			"season-number": 7,
+			"episode-count": 13,
+			"watched-episodes": "all"
+		}
+	]
+}

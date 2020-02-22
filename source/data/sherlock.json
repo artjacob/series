@@ -1,0 +1,25 @@
+{
+	"series-title": "Sherlock",
+	"seasons": [
+		{
+			"season-number": 1,
+			"episode-count": 3,
+			"watched-episodes": "all"
+		},
+		{
+			"season-number": 2,
+			"episode-count": 3,
+			"watched-episodes": "all"
+		},
+		{
+			"season-number": 3,
+			"episode-count": 3,
+			"watched-episodes": "all"
+		},
+		{
+			"season-number": "E",
+			"episode-count": 1,
+			"watched-episodes": "all"
+		}
+	]
+}

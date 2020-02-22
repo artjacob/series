@@ -1,0 +1,40 @@
+{
+	"series-title": "Mad Men",
+	"seasons": [
+		{
+			"season-number": 1,
+			"episode-count": 13,
+			"watched-episodes": "all"
+		},
+		{
+			"season-number": 2,
+			"episode-count": 13,
+			"watched-episodes": "all"
+		},
+		{
+			"season-number": 3,
+			"episode-count": 13,
+			"watched-episodes": "all"
+		},
+		{
+			"season-number": 4,
+			"episode-count": 13,
+			"watched-episodes": "all"
+		},
+		{
+			"season-number": 5,
+			"episode-count": 13,
+			"watched-episodes": "all"
+		},
+		{
+			"season-number": 6,
+			"episode-count": 13,
+			"watched-episodes": "all"
+		},
+		{
+			"season-number": 7,
+			"episode-count": 14,
+			"watched-episodes": "all"
+		}
+	]
+}

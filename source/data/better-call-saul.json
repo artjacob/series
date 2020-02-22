@@ -1,0 +1,15 @@
+{
+	"series-title": "Better Call Saul",
+	"seasons": [
+		{
+			"season-number": 1,
+			"episode-count": 10,
+			"watched-episodes": "all"
+		},
+		{
+			"season-number": 2,
+			"episode-count": 10,
+			"watched-episodes": "all"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"series-title": "Scandal",
+	"seasons": [
+		{
+			"season-number": 1,
+			"episode-count": 7,
+			"watched-episodes": "all"
+		},
+		{
+			"season-number": 2,
+			"episode-count": 22,
+			"watched-episodes": "all"
+		},
+		{
+			"season-number": 3,
+			"episode-count": 18,
+			"watched-episodes": "all"
+		},
+		{
+			"season-number": 4,
+			"episode-count": 22,
+			"watched-episodes": "all"
+		}
+	]
+}

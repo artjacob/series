@@ -1,0 +1,72 @@
+{
+	"series-title": "Penn & Teller: Bullshit!",
+	"seasons": [
+		{
+			"season-number": 1,
+			"episode-count": 13,
+			"watched-episodes": [
+				1,
+				13
+			]
+		},
+		{
+			"season-number": 2,
+			"episode-count": 13,
+			"watched-episodes": [
+				1,
+				4,
+				12
+			]
+		},
+		{
+			"season-number": 3,
+			"episode-count": 13,
+			"watched-episodes": [
+				6,
+				9,
+				11
+			]
+		},
+		{
+			"season-number": 4,
+			"episode-count": 10,
+			"watched-episodes": [
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"season-number": 5,
+			"episode-count": 10,
+			"watched-episodes": [
+				6
+			]
+		},
+		{
+			"season-number": 6,
+			"episode-count": 10,
+			"watched-episodes": [
+				1
+			]
+		},
+		{
+			"season-number": 7,
+			"episode-count": 10,
+			"watched-episodes": [
+				7,
+				8,
+				10
+			]
+		},
+		{
+			"season-number": 8,
+			"episode-count": 10,
+			"watched-episodes": [
+				10
+			]
+		}
+	]
+}
