@@ -1,28 +1,36 @@
-var gulp = require('gulp');
-var sass = require('gulp-sass');
-var autoprefixer = require('gulp-autoprefixer');
-var rename = require('gulp-rename');
-var babel = require('gulp-babel');
-var uglify = require('gulp-uglify');
+////////////////////////////////////////////////////////////////////////////////////////////////////
+// gulp ////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////
+const { task, series, parallel } = require("gulp");
+const browserSync = require("browser-sync").create("gulp");
 
-gulp.task('css', function() {
-	gulp.src('./scss/series.scss')
-		.pipe(sass({outputStyle: 'compressed'}).on('error', sass.logError))
-		.pipe(autoprefixer({
-			browsers: ['> 2%'],
-			cascade: false
-		}))
-		.pipe(rename({suffix: '.min'}))
-		.pipe(gulp.dest('./dist', {mode: 0644}));
-});
+// CSS
+const css = require("./dev/build/gulp-css.js");
+task("watch-css", series(css["watch"]));
+task("stage-css", series(css["stage"]));
 
-gulp.task('js', function() {
-	gulp.src('./js/*.js')
-		.pipe(babel())
-		.pipe(uglify())
-		.pipe(rename({suffix: '.min'}))
-		.pipe(gulp.dest('./dist', {mode: 0644}));
-});
+// JS
+const js = require("./dev/build/gulp-js.js");
+task("watch-js", series(js["watch"]));
+task("stage-js", series(js["stage"]));
 
-gulp.task('default', ['build']);
-gulp.task('build', ['css', 'js']);
+// Data
+const data = require("./dev/build/gulp-data.js");
+task("watch-data", series(data["watch"]));
+task("stage-data", series(data["stage"]));
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+task("watch", parallel(css["watch"], js["watch"], data["watch"]));
+task("stage", series(parallel(css["stage"], js["stage"], data["stage"])));
+task("default", parallel("stage"));
+
+task("serve", parallel("watch", function serve(done) {
+	browserSync.init({
+		"logFileChanges": false,
+		"notify": false,
+		"open": (process.argv.includes("-s") ? false : true),
+		"server": "./"
+	});
+	done();
+}));
