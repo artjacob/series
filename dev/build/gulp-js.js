@@ -30,7 +30,7 @@ tasks["stage"] = function stageJS(done) {
     src(source, { sourcemaps: true })
         .pipe(plumber())
         .pipe(concat("series.js"))
-        .pipe(babel({ presets: ["@babel/env"] }))
+        .pipe(babel({ presets: ["@babel/env", "@babel/preset-react"] }))
         .pipe(dest(config["js"]["destination"]["development"], { sourcemaps: true, mode: "0644" }));
 
     log(color.yellow("JS !!"));

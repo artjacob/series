@@ -1,38 +1,115 @@
-body { margin: 0; background: #eceff1; font: 400 16px roboto, helvetica, arial, sans-serif; color: #333; }
-h1 { margin: 0; padding: 0; font-weight: normal; }
-* { box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; -webkit-tap-highlight-color: rgba(0,0,0,0); }
+body {
+	margin: 0;
+	background: #263238;
+	font: 400 16px bitter, serif;
+	color: #fff;
+}
 
+h1 {
+	margin: 0;
+	padding: 0;
+	font-weight: normal;
+}
 
-// container
-.container { margin: 0 auto; padding: 0 8px; position: relative; }
+* {
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+}
 
-$column-width: 396px;
-$columns: 2;
+////////////////////////////////////////////////////////////////////////////////////////////////////
 
-@while $columns <= 6 {
-	@media (min-width: $column-width * $columns) { .container { width: $column-width * $columns; } }
-	$columns: $columns + 1;
+$global-stats-width: 300px;
+
+.container {
+	max-width: 800px;
+	margin: 0 auto;
+	position: relative;
+}
+
+.global-stats {
+	position: fixed;
+	top: 0;
+	padding-top: 20vh;
+	font-size: 32px;
+	color: rgba(#fff, 0.666);
+	line-height: 1.32;
+}
+
+.series-list {
+	$vertical-padding: 2vh;
+	padding: $vertical-padding 0 $vertical-padding $global-stats-width;
+}
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+.series {
+	// outline: 2px dashed #f0a;
+	padding: 16px 16px 32px;
+
+	+ .series {
+		border-top: 3px solid rgba(#000, 0.2);
+		padding-top: 32px;
+	}
+}
+
+.series-title {
+	padding-bottom: 2px;
+	font-size: 24px;
+}
+
+.series-stats {
+	padding-bottom: 16px;
+	font-size: 16px;
+	color: rgba(#fff, 0.75);
 }
 
 
-.global-stats { background-color: rgba(255,255,255,.75); margin-bottom: 16px; border-bottom: 1px solid rgba(0,0,0,.25); padding: 16px 0; color: rgba(0,0,0,0.9); text-align: center; }
+.episode-grid {
+	display: table;
+	border-collapse: separate;
+	border-spacing: 2px;
+	font-size: 10px;
+	line-height: 11px;
+}
 
-.series { width: 380px; padding: 16px; }
-.series-title { font-size: 24px; color: rgba(0,0,0,0.9); }
-.series-stats { margin-bottom: 16px; font-size: 16px; color: rgba(0,0,0,0.35); }
+.episode-grid .season {
+	display: table-row;
+}
 
-.episode-grid { display: table; border-collapse: separate; border-spacing: 2px; font-size: 10px; line-height: 11px; }
-.episode-grid .season { display: table-row; }
-.episode-grid .season span { display: table-cell; height: 11px; }
-.episode-grid .season .season-number { width: 14px; padding-right: 4px; text-align: right; }
-.episode-grid .season .episode { width: 11px; background: #e4e4e4; }
-.episode-grid .season .episode.watched { background: #8cc665; }
-.episode-grid .season .episode:hover { border: 1px solid #000; }
+.episode-grid .season span {
+	display: table-cell;
+	height: 11px;
+}
+
+.episode-grid .season .season-number {
+	width: 14px;
+	padding-right: 4px;
+	text-align: right;
+}
+
+.episode {
+	width: 11px;
+	background-color: rgba(#888, 0.25);
+
+	&.watched {
+		background: #4caf50;
+	}
+}
+
+.episode-grid .season .episode:hover {
+	border: 1px solid #000;
+}
+
 
 
 // material elements
-.card { margin-bottom: 8px; border-radius: 2px; background-color: #fff; box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12); position: relative; }
-
-@media (min-width: $column-width * 2) {
-	.card { margin-bottom: 16px; }
+.card {
+	margin-bottom: 8px;
+	border-radius: 2px;
+	background-color: #fff;
+	box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);
+	position: relative;
 }
